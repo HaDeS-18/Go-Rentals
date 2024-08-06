@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275042561257",
+    "project_id": "hades-go-rentals",
+    "storage_bucket": "hades-go-rentals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275042561257:android:831a41230f889505e6d478",
+        "android_client_info": {
+          "package_name": "com.example.go_rentals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU4uTvjvxgfI_VSA7xUbSg1arddhiRwq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
